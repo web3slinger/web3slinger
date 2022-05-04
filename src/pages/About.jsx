@@ -1,10 +1,13 @@
-import React from 'react'
+import Navbar from '../components/Navbar'
 
-function About() {
+const About = () => {
   return (
-    <div>
-      <h1>This is home page.</h1>
-    </div>
+    <>
+      <Navbar />
+      <div>
+        <h1>gm gm</h1>
+      </div>
+    </>
   )
 }
 

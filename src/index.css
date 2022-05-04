@@ -6,6 +6,6 @@
 
 @layer base {
   body {
-    @apply text-slate-900 bg-slate-200 font-montserrat;
+    @apply bg-gray-100 text-slate-900 font-montserrat;
   }
 }
